@@ -1,6 +1,6 @@
 # Datasets Newtral Data
 
-Aquí podrás encontrar datasets usados por el equipo de <a href="https://www.newtral.es/actualidad/data/" target="_blank">**Newtral Data**</a> para proyectos propios que han sido liberados
+Aquí podrás encontrar datasets usados por el equipo de <a href="https://www.newtral.es/actualidad/data/" target="_blank">**Newtral Data**</a> para proyectos propios que han sido liberados para su reutilización por otras personas
 
 ## Reutilización
 
